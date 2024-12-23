@@ -1,0 +1,35 @@
+MGTF401-Financial Accounting (4)
+
+
+MGTF405-Business Forecasting (4)
+
+
+MGTF406-Behavioral Finance (4)
+
+
+MGTF407-Valuation in Corporate Finance (4)
+
+
+
+MGTF408-Real Estate Finance (4)
+
+
+MGTF410-New Venture Finance (4)
+
+
+MGTF409-M&A and Corporate Restructurings (4)
+MGTF411-Stochastic Calculus and Continuous Time Finance (4)
+MGTF412-Financial Statement Analysis (4)
+MGTF413-Computational Finance Methods (4)
+MGTF418-Preparing for the CFA Exam 
+MGTF419-CFA Level II Exam Preparation
+MGTF420-Financial Markets and Institutions (4)
+MGTF421-Corporate Finance (4)
+MGTF422-Derivitives & Structured Finance
+MGTF 423 - Data Science for Finance I
+MGTF 424 - Data Science for Finance II– Machine Learning
+MGTF 430 - Asset Management
+MFTF 495 - Data Science for Finance using Python (4)
+
+
+
