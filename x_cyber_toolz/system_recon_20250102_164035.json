@@ -1,0 +1,138 @@
+{
+    "timestamp": "2025-01-02T16:40:35.788426",
+    "network": {
+        "hostname": "4zdus.attlocal.net",
+        "local_ip": "192.168.1.239",
+        "public_ip": "23.114.201.202",
+        "mac_address": "da:4c:c5:2f:6c:62",
+        "interfaces": {
+            "lo0": {
+                "ipv6": [
+                    "::1"
+                ]
+            },
+            "en0": {
+                "ipv4": {
+                    "address": "192.168.1.239",
+                    "netmask": "255.255.255.0",
+                    "broadcast": "192.168.1.255"
+                },
+                "ipv6": [
+                    "2600:1700:89c3:41d0:1088:d52c:898e:8597",
+                    "2600:1700:89c3:41d0:54b8:9d34:e98e:1c39",
+                    "2600:1700:89c3:41d0::2f"
+                ]
+            }
+        }
+    },
+    "system": {
+        "os_name": "Darwin",
+        "os_release": "21.4.0",
+        "os_version": "Darwin Kernel Version 21.4.0: Mon Feb 21 20:35:58 PST 2022; root:xnu-8020.101.4~2/RELEASE_ARM64_T6000",
+        "architecture": "arm64",
+        "processor": "arm",
+        "python_version": "3.11.1"
+    },
+    "hardware": {
+        "cpu": {
+            "physical_cores": 10,
+            "total_cores": 10,
+            "max_frequency": 3228,
+            "min_frequency": 600,
+            "current_frequency": 3228,
+            "usage_per_core": [
+                40.9,
+                33.3,
+                27.3,
+                31.8,
+                9.5,
+                13.6,
+                13.0,
+                4.5,
+                4.8,
+                0.0
+            ],
+            "total_usage": 18.0
+        },
+        "memory": {
+            "total": 32.0,
+            "available": 16.12,
+            "used": 14.76,
+            "percentage": 49.6
+        },
+        "disk": {
+            "/": {
+                "device": "/dev/disk3s1s1",
+                "fstype": "apfs",
+                "total": 926.35,
+                "used": 22.19,
+                "free": 436.38,
+                "percentage": 4.8
+            },
+            "/System/Volumes/VM": {
+                "device": "/dev/disk3s6",
+                "fstype": "apfs",
+                "total": 926.35,
+                "used": 1.0,
+                "free": 436.38,
+                "percentage": 0.2
+            },
+            "/System/Volumes/Preboot": {
+                "device": "/dev/disk3s2",
+                "fstype": "apfs",
+                "total": 926.35,
+                "used": 0.54,
+                "free": 436.38,
+                "percentage": 0.1
+            },
+            "/System/Volumes/Update": {
+                "device": "/dev/disk3s4",
+                "fstype": "apfs",
+                "total": 926.35,
+                "used": 0.67,
+                "free": 436.38,
+                "percentage": 0.2
+            },
+            "/System/Volumes/xarts": {
+                "device": "/dev/disk2s2",
+                "fstype": "apfs",
+                "total": 0.49,
+                "used": 0.01,
+                "free": 0.47,
+                "percentage": 1.2
+            },
+            "/System/Volumes/iSCPreboot": {
+                "device": "/dev/disk2s1",
+                "fstype": "apfs",
+                "total": 0.49,
+                "used": 0.01,
+                "free": 0.47,
+                "percentage": 1.5
+            },
+            "/System/Volumes/Hardware": {
+                "device": "/dev/disk2s3",
+                "fstype": "apfs",
+                "total": 0.49,
+                "used": 0.0,
+                "free": 0.47,
+                "percentage": 0.5
+            },
+            "/System/Volumes/Data": {
+                "device": "/dev/disk3s5",
+                "fstype": "apfs",
+                "total": 926.35,
+                "used": 463.86,
+                "free": 436.38,
+                "percentage": 51.5
+            },
+            "/System/Volumes/Update/mnt1": {
+                "device": "/dev/disk3s1",
+                "fstype": "apfs",
+                "total": 926.35,
+                "used": 22.19,
+                "free": 436.38,
+                "percentage": 4.8
+            }
+        }
+    }
+}
